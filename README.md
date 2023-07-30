@@ -1,4 +1,5 @@
 # Perolax
 Project Perolax: Upcoming masterpiece
 
-![perolax_logo](https://github.com/YBGE/Perolax/assets/140978373/b44a7461-6cd8-43b8-b30e-ba2a6b2c0b2c)
+
+![perolax_logo_wide](https://github.com/YBGE/Perolax/assets/140978373/31d22f2d-4943-44f7-825e-476775d59d81)
